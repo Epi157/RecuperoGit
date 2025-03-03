@@ -8,5 +8,7 @@ namespace WpfAppRecuperoGit
 {
     internal class Libro
     {
+        public int pagine_libro;
+        public string prova = "prova";
     }
 }
