@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppRecuperoGit", "WpfAppRecuperoGit\WpfAppRecuperoGit.csproj", "{26A62D59-05E5-45B1-B03D-E2687CE6C5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A62D59-05E5-45B1-B03D-E2687CE6C5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A62D59-05E5-45B1-B03D-E2687CE6C5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A62D59-05E5-45B1-B03D-E2687CE6C5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A62D59-05E5-45B1-B03D-E2687CE6C5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEDF1340-85DC-46EF-A89A-63C8DD1D8EC7}
+	EndGlobalSection
+EndGlobal
