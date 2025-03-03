@@ -17,6 +17,7 @@
                 </TransformGroup>
             </TextBox.RenderTransform>
         </TextBox>
+        <Button Content="Crea partita" HorizontalAlignment="Left" Height="52" Margin="55,131,0,0" VerticalAlignment="Top" Width="127"/>
 
     </Grid>
 </Window>
