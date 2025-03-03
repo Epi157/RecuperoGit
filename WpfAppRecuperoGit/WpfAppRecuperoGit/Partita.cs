@@ -8,6 +8,6 @@ namespace WpfAppRecuperoGit
 {
     internal class Partita
     {
-        
+        public int anno, numero_partite;
     }
 }
